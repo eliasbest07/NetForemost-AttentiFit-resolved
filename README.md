@@ -1,16 +1,14 @@
 # attentifit
 
-A new Flutter project.
+It is part of an application that allows employees of the company to take active breaks to exercise and keep track of the days in which they exercised and what routines they did.
+## Apk 
 
-## Getting Started
+Here you will find the .apk file to install it demo on your Android device
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+![pantallas](https://user-images.githubusercontent.com/26911843/223796679-e395e02d-8768-4d1d-9271-e4ba025eb2ac.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Wireframe
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/26911843/223798884-66e35397-3744-48a8-817f-9b0a98b6ab8b.png)
